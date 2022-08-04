@@ -1,0 +1,15 @@
+{
+    "name": "youcef-bellouche/food-delivery",
+    "autoload": {
+        "psr-4": {
+            "YoucefBellouche\\FoodDelivery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youcef Bellouche",
+            "email": "fecuoy03@gmail.com"
+        }
+    ],
+    "require": {}
+}
